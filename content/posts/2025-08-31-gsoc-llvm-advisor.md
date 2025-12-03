@@ -1,6 +1,6 @@
 ---
 author: "Miguel Cárdenas"
-date: "2025-08-31"
+date: "2025-12-08"
 tags: ["GSoC", "optimization", "visualization", "tooling", "offloading"]
 title: "Making LLVM Compilation Data Accessible: A Unified Visualization Tool for Compiler Artifacts"
 ---
